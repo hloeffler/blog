@@ -20,5 +20,6 @@ at the moment im just playing with hugo (the tool that builds this site)
 - [ ] find/create a theme that is more useful for non-blogs
   - this feels wrong:
   - ```cd layouts && cp ../themes/blackburn/layouts/_default/single.html index.html```
+- [ ] `post/` is not as beautiful as `/` was - hmmm
 
 
